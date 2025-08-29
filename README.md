@@ -33,7 +33,11 @@
 <img src="https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=mui&logoColor=white" />
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
+<img src="https://img.shields.io/badge/Agile-2496ED?style=for-the-badge&logo=elasticstack&logoColor=white" />
+<img src="https://img.shields.io/badge/Scrum-FF6F00?style=for-the-badge&logo=teams&logoColor=white" />
 </p>
+
 
 ---
 
