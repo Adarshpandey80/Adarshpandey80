@@ -30,6 +30,8 @@
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+<img src="https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=mui&logoColor=white" />
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
@@ -37,9 +39,10 @@
 
 ### 🚀 Featured Projects  
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/👷 Worker Finder App-000?style=for-the-badge&logo=node.js&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/🌦️ Weather Forecast App-32CD32?style=for-the-badge&logo=react&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/🎮 Simon Sage Game-FF4500?style=for-the-badge&logo=html5&logoColor=white" /></a>
+  <a href="https://github.com/Adarshpandey80/worker-finder"><img src="https://img.shields.io/badge/👷 Worker Finder App-000?style=for-the-badge&logo=node.js&logoColor=white" /></a>
+  <a href="https://github.com/Adarshpandey80/a-z-automobile"><img src="https://img.shields.io/badge/🚗 A-Z Automobile Platform-1E90FF?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+  <a href="https://github.com/Adarshpandey80/weather-forecast"><img src="https://img.shields.io/badge/🌦️ Weather Forecast App-32CD32?style=for-the-badge&logo=react&logoColor=white" /></a>
+  <a href="https://github.com/Adarshpandey80/simon-sage-game"><img src="https://img.shields.io/badge/🎮 Simon Sage Game-FF4500?style=for-the-badge&logo=html5&logoColor=white" /></a>
   <a href="https://portfolio-three-beta-99.vercel.app"><img src="https://img.shields.io/badge/💼 Portfolio Website-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
 
@@ -78,19 +81,3 @@
 ---
 
 ⭐ From [AdarshPandey80](https://github.com/Adarshpandey80)
-
-
-<!--
-**Adarshpandey80/Adarshpandey80** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
