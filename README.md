@@ -60,12 +60,12 @@
 
 ## 📄 Resume  
 <p align="center">
-  <a href="https://github.com/Adarshpandey80/Adarshpandey80/raw/main/assets/FullStackResume.pdf">
+  <a href="https://drive.google.com/file/d/1izxze6bibqye09l8vYawVoimupG4vLeK/view?usp=drive_link">
     <img src="https://img.shields.io/badge/📥 Download FullStack Resume-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
   </a>
 </p>
 
-👉 [View Resume Online](https://github.com/Adarshpandey80/Adarshpandey80/raw/main/assets/FullStackResume.pdf)
+👉 [View Resume Online](https://drive.google.com/file/d/1izxze6bibqye09l8vYawVoimupG4vLeK/view?usp=drive_link)
 
 ---
 
