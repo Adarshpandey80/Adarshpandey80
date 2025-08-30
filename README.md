@@ -5,7 +5,8 @@
 
 <p align="center">
   <a href="https://adarshpandey80.github.io/Portfolio/"><img src="https://img.shields.io/badge/🌐 Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="https://github.com/Adarshpandey80/Adarshpandey80/raw/main/assets/FullStackResume.pdf"><img src="https://img.shields.io/badge/📄 Download_Resume-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" /></a>
+  <a href="https://drive.google.com/file/d/1izxze6bibqye09l8vYawVoimupG4vLeK/view?usp=sharing
+"><img src="https://img.shields.io/badge/📄 Download_Resume-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/adarshpandey80/"><img src="https://img.shields.io/badge/🔗 LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:pandeyadarsh9628@gmail.com"><img src="https://img.shields.io/badge/📧 Email-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
@@ -58,16 +59,6 @@
 
 ---
 
-## 📄 Resume  
-<p align="center">
-  <a href="https://drive.google.com/file/d/1izxze6bibqye09l8vYawVoimupG4vLeK/view?usp=drive_link">
-    <img src="https://img.shields.io/badge/📥 Download FullStack Resume-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
-  </a>
-</p>
-
-👉 [View Resume Online](https://drive.google.com/file/d/1izxze6bibqye09l8vYawVoimupG4vLeK/view?usp=drive_link)
-
----
 
 ### 📊 GitHub Insights  
 <p align="center">
