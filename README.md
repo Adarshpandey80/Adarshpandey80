@@ -49,7 +49,7 @@
   <a href="https://github.com/Adarshpandey80/Weather-Forecast"><img src="https://img.shields.io/badge/🌦️ Weather Forecast App-32CD32?style=for-the-badge&logo=react&logoColor=white" /></a>
   <a href="https://github.com/Adarshpandey80/simon-sage-game"><img src="https://img.shields.io/badge/🎮 Simon Sage Game-FF4500?style=for-the-badge&logo=html5&logoColor=white" /></a>
   <a href="https://github.com/Adarshpandey80/Portfolio"><img src="https://img.shields.io/badge/💼 Portfolio Website-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="https://github.com/Adarshpandey80/Wonderlust"><img src="https://img.shields.io/badge/🛏️ Wonderlust Website-F24E1E?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://github.com/Adarshpandey80/Wonderlust"><img src="https://img.shields.io/badge/🛏️ Wonderlust Website-F24E1E?style=for-the-badge&logo=node.js&logoColor=white" /></a>
 </p>
 
 ---
