@@ -66,10 +66,6 @@
   <img src="https://streak-stats.demolab.com?user=Adarshpandey80&theme=radical" height="180px"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adarshpandey80&layout=compact&theme=radical" height="180px"/>
-</p>
-
 
 ---
 
