@@ -66,7 +66,7 @@
   <img src="https://streak-stats.demolab.com?user=Adarshpandey80&theme=radical" height="180px"/>
 </p> -->
 
-### 📊 GitHub Insights  
+<!-- ### 📊 GitHub Insights  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Adarshpandey80&show_icons=true&theme=radical" height="180px"/>
   <img src="https://streak-stats.demolab.com?user=Adarshpandey80&theme=radical" height="180px"/>
@@ -74,6 +74,22 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adarshpandey80&layout=compact&theme=radical" height="180px"/>
+</p> -->
+
+### 📊 GitHub Insights  
+<p align="center">
+  <a href="https://github.com/Adarshpandey80">
+    <img src="https://github-readme-stats.vercel.app/api?username=Adarshpandey80&show_icons=true&theme=radical" height="180px"/>
+  </a>
+  <a href="https://github.com/Adarshpandey80">
+    <img src="https://streak-stats.demolab.com?user=Adarshpandey80&theme=radical" height="180px"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Adarshpandey80">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adarshpandey80&layout=compact&theme=radical&langs_count=6&hide=html,css,shell,scss,less,makefile&exclude_repo=github-readme-stats" height="180px"/>
+  </a>
 </p>
 
 
