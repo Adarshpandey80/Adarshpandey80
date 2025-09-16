@@ -65,8 +65,12 @@
   <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=Adarshpandey80&show_icons=true&theme=radical&hide_border=true" height="180px" alt="GitHub Stats"/>
 
-  <!-- Streak Graph -->
-  <img src="https://streak-stats.demolab.com/?user=Adarshpandey80&theme=radical&hide_border=true" height="180px" alt="GitHub Streak Stats"/>
+ <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Adarshpandey80&show_icons=true&theme=radical&hide_border=true" height="180px" alt="GitHub Stats"/>
+
+  <!-- Current Streak Graph -->
+  <img src="https://streak-stats.demolab.com?user=Adarshpandey80&theme=radical&hide_border=false" height="180px" alt="GitHub Streak Stats"/>
+
 </p>
 
 
