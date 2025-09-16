@@ -68,9 +68,8 @@
   </a>
 
   <!-- Current Streak Graph -->
-  <a href="https://github.com/Adarshpandey80">
-    <img src="https://streak-stats.demolab.com?user=Adarshpandey80&theme=radical&hide_border=false&timestamp=20250917" height="180px" alt="GitHub Streak Stats"/>
-  </a>
+ <img src="https://github-readme-stats.vercel.app/api?username=Adarshpandey80&show_icons=true&theme=radical&count_private=true&include_all_commits=true" height="180px"/>
+
 </p>
 
 
