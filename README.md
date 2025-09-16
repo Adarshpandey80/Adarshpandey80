@@ -70,9 +70,14 @@
   <!-- Current Streak Graph -->
  <img src="https://streak-stats.demolab.com/?user=Adarshpandey80&theme=radical&hide_border=false" height="180px"/>
 
-  <img src="https://ghchart.rshah.org/61DAFB/Adarshpandey80" alt="GitHub Contribution Graph" />
 
 </p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/commit-activity/y/Adarshpandey80?color=61DAFB&style=for-the-badge" />
+  <img src="https://img.shields.io/github/issues/Adarshpandey80/RepositoryName?color=FF4500&style=for-the-badge" />
+</p>
+
 
 
 
