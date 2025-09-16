@@ -70,14 +70,10 @@
   <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=Adarshpandey80&show_icons=true&theme=radical&hide_border=true" height="180px" alt="GitHub Stats"/>
 
-  <!-- Streak Stats -->
-  <img src="https://streak-stats.demolab.com/?user=Adarshpandey80&theme=radical&hide_border=true" height="180px" alt="GitHub Streak Stats"/>
+  <!-- Streak Graph -->
+  <img src="https://streak-stats.demolab.com?user=Adarshpandey80&theme=radical&hide_border=false&stroke=000000" height="180px" alt="GitHub Streak Stats"/>
 </p>
 
-<p align="center">
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adarshpandey80&layout=compact&theme=radical&hide_border=true" height="160px" alt="Top Languages"/>
-</p>
 
 
 
