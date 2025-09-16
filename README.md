@@ -62,19 +62,32 @@
 
 ### 📊 GitHub Insights
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Adarshpandey80&show_icons=true&theme=radical" height="180px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adarshpandey80&theme=radical" height="180px"/>
+  <!-- Profile Views -->
+  <img src="https://komarev.com/ghpvc/?username=Adarshpandey80&label=Profile%20Views&color=blue&style=for-the-badge" alt="Profile Views"/>
 </p>
+
+<p align="center">
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Adarshpandey80&show_icons=true&theme=radical&hide_border=true" height="180px" alt="GitHub Stats"/>
+
+  <!-- Streak Stats -->
+  <img src="https://streak-stats.demolab.com/?user=Adarshpandey80&theme=radical&hide_border=true" height="180px" alt="GitHub Streak Stats"/>
+</p>
+
+<p align="center">
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adarshpandey80&layout=compact&theme=radical&hide_border=true" height="160px" alt="Top Languages"/>
+</p>
+
 
 
 ---
 
 ### 🌍 Visitor Counter  
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Adarshpandey80&label=Profile%20Views&color=blue&style=for-the-badge"/>
-  <img src="https://streak-stats.demolab.com/?user=Adarshpandey80&theme=radical" height="180px"/>
+  <img src="https://komarev.com/ghpvc/?username=Adarshpandey80&label=Profile%20Views&color=blue&style=for-the-badge" />
+  
 </p>
-
 
 ---
 
