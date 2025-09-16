@@ -63,15 +63,16 @@
 ### 📊 GitHub Insights
 <p align="center">
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Adarshpandey80&show_icons=true&theme=radical&hide_border=true" height="180px" alt="GitHub Stats"/>
-
- <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Adarshpandey80&show_icons=true&theme=radical&hide_border=true" height="180px" alt="GitHub Stats"/>
+  <a href="https://github.com/Adarshpandey80">
+    <img src="https://github-readme-stats.vercel.app/api?username=Adarshpandey80&show_icons=true&theme=radical&hide_border=true&count_private=true" height="180px" alt="GitHub Stats"/>
+  </a>
 
   <!-- Current Streak Graph -->
-  <img src="https://streak-stats.demolab.com?user=Adarshpandey80&theme=radical&hide_border=false" height="180px" alt="GitHub Streak Stats"/>
-
+  <a href="https://github.com/Adarshpandey80">
+    <img src="https://streak-stats.demolab.com?user=Adarshpandey80&theme=radical&hide_border=false&timestamp=20250917" height="180px" alt="GitHub Streak Stats"/>
+  </a>
 </p>
+
 
 
 
