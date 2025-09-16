@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Adarsh Pandey</h1>
+̉̉̉<h1 align="center">Hi 👋, I'm Adarsh Pandey</h1>
 <h3 align="center">🚀 FullStack MERN Developer | Open Source Enthusiast | Problem Solver</h3>
 
 ---
@@ -63,7 +63,7 @@
 ### 📊 GitHub Insights
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Adarshpandey80&show_icons=true&theme=radical" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Adarshpandey80&show_icons=true&theme=radical&count_private=true" height="180px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adarshpandey80&theme=radical" height="180px"/>
 </p>
 
 
@@ -71,7 +71,8 @@
 
 ### 🌍 Visitor Counter  
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Adarshpandey80&label=Profile%20Views&color=blue&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=Adarshpandey80&label=Profile%20Views&color=blue&style=for-the-badge"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adarshpandey80&theme=radical" height="180px"/>
 </p>
 
 ---
