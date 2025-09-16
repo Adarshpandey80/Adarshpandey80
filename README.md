@@ -73,10 +73,6 @@
 
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/github/commit-activity/y/Adarshpandey80?color=61DAFB&style=for-the-badge" />
-  <img src="https://img.shields.io/github/issues/Adarshpandey80/RepositoryName?color=FF4500&style=for-the-badge" />
-</p>
 
 
 
