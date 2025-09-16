@@ -62,16 +62,11 @@
 
 ### 📊 GitHub Insights
 <p align="center">
-  <!-- Profile Views -->
-  <img src="https://komarev.com/ghpvc/?username=Adarshpandey80&label=Profile%20Views&color=blue&style=for-the-badge" alt="Profile Views"/>
-</p>
-
-<p align="center">
   <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=Adarshpandey80&show_icons=true&theme=radical&hide_border=true" height="180px" alt="GitHub Stats"/>
 
   <!-- Streak Graph -->
-  <img src="https://streak-stats.demolab.com?user=Adarshpandey80&theme=radical&hide_border=false&stroke=000000" height="180px" alt="GitHub Streak Stats"/>
+  <img src="https://streak-stats.demolab.com/?user=Adarshpandey80&theme=radical&hide_border=true" height="180px" alt="GitHub Streak Stats"/>
 </p>
 
 
