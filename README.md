@@ -72,8 +72,9 @@
 ### 🌍 Visitor Counter  
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Adarshpandey80&label=Profile%20Views&color=blue&style=for-the-badge"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adarshpandey80&theme=radical" height="180px"/>
+  <img src="https://streak-stats.demolab.com/?user=Adarshpandey80&theme=radical" height="180px"/>
 </p>
+
 
 ---
 
