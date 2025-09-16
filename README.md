@@ -63,7 +63,7 @@
 ### 📊 GitHub Insights
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Adarshpandey80&show_icons=true&theme=radical" height="180px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adarshpandey80&theme=radical" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?user=Adarshpandey80&show_icons=true&theme=radical&count_private=true" height="180px"/>
 </p>
 
 
