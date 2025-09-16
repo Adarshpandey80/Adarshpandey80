@@ -70,6 +70,8 @@
   <!-- Current Streak Graph -->
  <img src="https://streak-stats.demolab.com/?user=Adarshpandey80&theme=radical&hide_border=false" height="180px"/>
 
+  <img src="https://ghchart.rshah.org/61DAFB/Adarshpandey80" alt="GitHub Contribution Graph" />
+
 </p>
 
 
