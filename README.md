@@ -62,11 +62,13 @@
 
 ### 📊 GitHub Insights
 <p align="center">
-  <!-- GitHub Followers -->
-  <img src="https://img.shields.io/github/followers/Adarshpandey80?label=Followers&style=social" alt="GitHub Followers" height="30"/>
+  <!-- GitHub Stats -->
+  <a href="https://github.com/Adarshpandey80">
+    <img src="https://github-readme-stats.vercel.app/api?username=Adarshpandey80&show_icons=true&theme=radical&hide_border=true&count_private=true" height="180px" alt="GitHub Stats"/>
+  </a>
 
-  <!-- GitHub Stars -->
-  <img src="https://img.shields.io/github/stars/Adarshpandey80?style=social" alt="GitHub Stars" height="30"/>
+  <!-- GitHub Streak Stats -->
+  <img src="https://github-readme-streak-stats.demolab.com?user=Adarshpandey80&theme=radical&hide_border=false" height="180px" alt="GitHub Streak Stats"/>
 </p>
 
 
