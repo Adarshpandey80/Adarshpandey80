@@ -68,7 +68,8 @@
   </a>
 
   <!-- GitHub Streak Stats -->
-  <img src="https://github-readme-streak-stats.demolab.com?user=Adarshpandey80&theme=radical&hide_border=false" height="180px" alt="GitHub Streak Stats"/>
+<img src="https://streak-stats.demolab.com?user=Adarshpandey80&theme=radical&hide_border=false"    height="180px" alt="GitHub Streak Stats"/>
+
 </p>
 
 
