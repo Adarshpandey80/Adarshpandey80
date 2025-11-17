@@ -55,7 +55,7 @@
 
 ### 🏆 Certifications  
 ✅ ReactJS – Udemy  
-✅ Node.js with Express – Udemy  
+✅ Cloud Foundations Associate - Oracle
 
 ---
 
