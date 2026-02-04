@@ -24,7 +24,7 @@
 - 💻 **Full Stack MERN Developer** (MongoDB, Express.js, React.js, Node.js)
 - 🔐 Experience with **Authentication, REST APIs, Dashboards & Role-Based Systems**
 - 🚀 Passionate about building **scalable, real-world web applications**
-- 📫 Reach me at **pandeyadarsh9628@gmail.com**
+- 📫 Email: **pandeyadarsh9628@gmail.com**
 
 ---
 
@@ -48,17 +48,17 @@
 
 ## 🚀 Featured Projects
 
-| Project | Description | Tech Stack |
-|------|------------|-----------|
-| 👷 **Worker Finder App** | Platform to connect workers and users with secure authentication and role-based access | MERN |
-| 🛠️ **Easy Service Project** | Service booking platform for daily services like electrician, plumber, etc. | MERN |
-| 📋 **Task Management System** | Task creation, update, delete, and status tracking system | React, Node.js |
-| 🚗 **A-Z Automobile Platform** | Automobile listing and management system with admin dashboard | MERN |
-| 👟 **Shoes Verse** | E-commerce shoe store with product listing, cart functionality, and responsive UI | React, Tailwind |
-| 🛏️ **Wonderlust Website** | Full-stack accommodation booking website with CRUD operations | Node, Express, MongoDB |
-| 🌦️ **Weather Forecast App** | Real-time weather application using external APIs | React |
-| 🎮 **Simon Game** | Interactive memory-based game | HTML, CSS, JavaScript |
-| 💼 **Portfolio Website** | Personal portfolio showcasing skills and projects | React, Tailwind |
+| Project | Description | Tech | GitHub |
+|-------|------------|------|--------|
+| 👷 **Worker Finder App** | Platform to connect workers and users with secure authentication and role-based access | MERN | [Repo](https://github.com/Adarshpandey80/WorkerFinder) |
+| 🛠️ **Easy Service Project** | Service booking platform for daily services like electrician, plumber, etc. | MERN | [Repo](https://github.com/Adarshpandey80/Easy-Service-Project) |
+| 📋 **Task Management System** | Task creation, update, delete, and status tracking system | React, Node.js | [Repo](https://github.com/Adarshpandey80/Task-Management-System) |
+| 🚗 **A-Z Automobile Platform** | Automobile listing and management system with admin dashboard | MERN | [Repo](https://github.com/Adarshpandey80/AzAutomobils) |
+| 👟 **Shoes Verse** | E-commerce shoe store with product listing, cart functionality, and responsive UI | React, Tailwind | [Repo](https://github.com/Adarshpandey80/Shoes-Verse) |
+| 🛏️ **Wonderlust Website** | Full-stack accommodation booking website with CRUD operations | Node, Express, MongoDB | [Repo](https://github.com/Adarshpandey80/Wonderlust) |
+| 🌦️ **Weather Forecast App** | Real-time weather application using external APIs | React | [Repo](https://github.com/Adarshpandey80/Weather-Forecast) |
+| 🎮 **Simon Game** | Interactive memory-based game | HTML, CSS, JavaScript | [Repo](https://github.com/Adarshpandey80/simon-sage-game) |
+| 💼 **Portfolio Website** | Personal portfolio showcasing skills and projects | React, Tailwind | [Repo](https://github.com/Adarshpandey80/Portfolio) |
 
 ---
 
