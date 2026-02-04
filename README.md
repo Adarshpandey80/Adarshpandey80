@@ -50,13 +50,13 @@
 
 | Project | Description | Tech | GitHub |
 |-------|------------|------|--------|
+| 👟 **Shoes Verse** | E-commerce shoe store with product listing, cart functionality, and responsive UI | MERN | [Repo](https://github.com/Adarshpandey80/Shoes-Verse) |
 | 👷 **Worker Finder App** | Platform to connect workers and users with secure authentication and role-based access | MERN | [Repo](https://github.com/Adarshpandey80/WorkerFinder) |
+| 📋 **Task Management System** | Task creation, update, delete, and status tracking system | MERN | [Repo](https://github.com/Adarshpandey80/Task-Management-System) |
 | 🛠️ **Easy Service Project** | Service booking platform for daily services like electrician, plumber, etc. | MERN | [Repo](https://github.com/Adarshpandey80/Easy-Service-Project) |
-| 📋 **Task Management System** | Task creation, update, delete, and status tracking system | React, Node.js | [Repo](https://github.com/Adarshpandey80/Task-Management-System) |
-| 🚗 **A-Z Automobile Platform** | Automobile listing and management system with admin dashboard | MERN | [Repo](https://github.com/Adarshpandey80/AzAutomobils) |
-| 👟 **Shoes Verse** | E-commerce shoe store with product listing, cart functionality, and responsive UI | React, Tailwind | [Repo](https://github.com/Adarshpandey80/Shoes-Verse) |
 | 🛏️ **Wonderlust Website** | Full-stack accommodation booking website with CRUD operations | Node, Express, MongoDB | [Repo](https://github.com/Adarshpandey80/Wonderlust) |
 | 🌦️ **Weather Forecast App** | Real-time weather application using external APIs | React | [Repo](https://github.com/Adarshpandey80/Weather-Forecast) |
+| 🚗 **A-Z Automobile Platform** | Automobile listing and management system with admin dashboard | HTML, CSS, JavaScript | [Repo](https://github.com/Adarshpandey80/AzAutomobils) |
 | 🎮 **Simon Game** | Interactive memory-based game | HTML, CSS, JavaScript | [Repo](https://github.com/Adarshpandey80/simon-sage-game) |
 | 💼 **Portfolio Website** | Personal portfolio showcasing skills and projects | React, Tailwind | [Repo](https://github.com/Adarshpandey80/Portfolio) |
 
