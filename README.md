@@ -5,7 +5,7 @@
   <a href="https://portfolio-react-gold-seven.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <a href="https://github.com/Adarshpandey80/Adarshpandey80/blob/main/NewFullStackResume.pdf">
+  <a href="https://github.com/Adarshpandey80/Adarshpandey80/blob/main/newFSresumepdf.pdf">
     <img src="https://img.shields.io/badge/Resume-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/adarshpandey80/">
