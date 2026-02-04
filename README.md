@@ -1,27 +1,35 @@
-̉̉̉<h1 align="center">Hi 👋, I'm Adarsh Pandey</h1>
-<h3 align="center">🚀 FullStack MERN Developer | Open Source Enthusiast | Problem Solver</h3>
-
----
+<h1 align="center">Hi 👋, I'm Adarsh Pandey</h1>
+<h3 align="center">Full Stack MERN Developer | Open Source Learner | Problem Solver</h3>
 
 <p align="center">
-  <a href="https://portfolio-react-gold-seven.vercel.app/"><img src="https://img.shields.io/badge/🌐 Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="https://github.com/Adarshpandey80/Adarshpandey80/blob/main/NewFullStackResume.pdf"><img src="https://img.shields.io/badge/📄 Download_Resume-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/adarshpandey80/"><img src="https://img.shields.io/badge/🔗 LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:pandeyadarsh9628@gmail.com"><img src="https://img.shields.io/badge/📧 Email-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://portfolio-react-gold-seven.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://github.com/Adarshpandey80/Adarshpandey80/blob/main/NewFullStackResume.pdf">
+    <img src="https://img.shields.io/badge/Resume-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/adarshpandey80/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:pandeyadarsh9628@gmail.com">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-### 👨‍💻 About Me  
-- 🎓 B.Tech in Computer Science (TIT, Bhopal) – CGPA: 7.6  
-- 💻 MERN Stack Developer (MongoDB, Express.js, React.js, Node.js)  
-- 🔐 Experience in **Authentication, APIs, Dashboards & Role-based Systems**  
-- 🚀 Building **scalable web apps & real-world projects**  
-- 📫 Reach me: **pandeyadarsh9628@gmail.com**
+## 👨‍💻 About Me
+
+- 🎓 **B.Tech in Computer Science** – TIT, Bhopal (CGPA: 7.6)
+- 💻 **Full Stack MERN Developer** (MongoDB, Express.js, React.js, Node.js)
+- 🔐 Experience with **Authentication, REST APIs, Dashboards & Role-Based Systems**
+- 🚀 Passionate about building **scalable, real-world web applications**
+- 📫 Reach me at **pandeyadarsh9628@gmail.com**
 
 ---
 
-### 🛠️ Tech Toolbox  
+## 🛠️ Tech Stack
+
 <p align="center">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
@@ -31,61 +39,60 @@
 <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
 <img src="https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=mui&logoColor=white" />
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
-<img src="https://img.shields.io/badge/Agile-2496ED?style=for-the-badge&logo=elasticstack&logoColor=white" />
-<img src="https://img.shields.io/badge/Scrum-FF6F00?style=for-the-badge&logo=teams&logoColor=white" />
+<img src="https://img.shields.io/badge/Agile-Scrum-2496ED?style=for-the-badge" />
 </p>
-
 
 ---
 
-### 🚀 Featured Projects  
+## 🚀 Featured Projects
+
+| Project | Description | Tech Stack |
+|------|------------|-----------|
+| 👷 **Worker Finder App** | Platform to connect workers and users with secure authentication and role-based access | MERN |
+| 🛠️ **Easy Service Project** | Service booking platform for daily services like electrician, plumber, etc. | MERN |
+| 📋 **Task Management System** | Task creation, update, delete, and status tracking system | React, Node.js |
+| 🚗 **A-Z Automobile Platform** | Automobile listing and management system with admin dashboard | MERN |
+| 👟 **Shoes Verse** | E-commerce shoe store with product listing, cart functionality, and responsive UI | React, Tailwind |
+| 🛏️ **Wonderlust Website** | Full-stack accommodation booking website with CRUD operations | Node, Express, MongoDB |
+| 🌦️ **Weather Forecast App** | Real-time weather application using external APIs | React |
+| 🎮 **Simon Game** | Interactive memory-based game | HTML, CSS, JavaScript |
+| 💼 **Portfolio Website** | Personal portfolio showcasing skills and projects | React, Tailwind |
+
+---
+
+## 📌 Other Notable Work
+
+- 🔐 JWT Authentication & Protected Routes  
+- 📊 Interactive Data Visualization using **D3.js**  
+- 🧾 CRUD Applications with REST APIs  
+- 🌐 API Integration using Axios & Fetch  
+
+---
+
+## 🏆 Certifications
+
+- ✅ ReactJS – Udemy  
+- ✅ Cloud Foundations Associate – Oracle  
+
+---
+
+## 📊 GitHub Stats
+
 <p align="center">
-  <a href="https://github.com/Adarshpandey80/WorkerFinder"><img src="https://img.shields.io/badge/👷 Worker Finder App-000?style=for-the-badge&logo=node.js&logoColor=white" /></a>
-  <a href="https://github.com/Adarshpandey80/AzAutomobils"><img src="https://img.shields.io/badge/🚗 A-Z Automobile Platform-1E90FF?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
-  <a href="https://github.com/Adarshpandey80/Weather-Forecast"><img src="https://img.shields.io/badge/🌦️ Weather Forecast App-32CD32?style=for-the-badge&logo=react&logoColor=white" /></a>
-  <a href="https://github.com/Adarshpandey80/simon-sage-game"><img src="https://img.shields.io/badge/🎮 Simon Sage Game-FF4500?style=for-the-badge&logo=html5&logoColor=white" /></a>
-  <a href="https://github.com/Adarshpandey80/Portfolio"><img src="https://img.shields.io/badge/💼 Portfolio Website-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="https://github.com/Adarshpandey80/Wonderlust"><img src="https://img.shields.io/badge/🛏️ Wonderlust Website-F24E1E?style=for-the-badge&logo=node.js&logoColor=white" /></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=Adarshpandey80&show_icons=true&theme=radical&hide_border=true" height="170px"/>
+  <img src="https://streak-stats.demolab.com?user=Adarshpandey80&theme=radical" height="170px"/>
 </p>
 
 ---
 
-### 🏆 Certifications  
-✅ ReactJS – Udemy  
-✅ Cloud Foundations Associate - Oracle
+## 🌍 Profile Views
 
----
-
-
-### 📊 GitHub Insights
-<p align="center">
-  <!-- GitHub Stats -->
-  <a href="https://github.com/Adarshpandey80">
-    <img src="https://github-readme-stats.vercel.app/api?username=Adarshpandey80&show_icons=true&theme=radical&hide_border=true&count_private=true" height="180px" alt="GitHub Stats"/>
-  </a>
-
-  <!-- GitHub Streak Stats -->
-<img src="https://streak-stats.demolab.com?user=Adarshpandey80&theme=radical&hide_border=false"    height="180px" alt="GitHub Streak Stats"/>
-
-</p>
-
-
-
-
-
-
-
----
-
-### 🌍 Visitor Counter  
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Adarshpandey80&label=Profile%20Views&color=blue&style=for-the-badge" />
-  
 </p>
 
 ---
 
-⭐ From [AdarshPandey80](https://github.com/Adarshpandey80)
+⭐ **Adarsh Pandey | Full Stack MERN Developer**
