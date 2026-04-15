@@ -55,8 +55,8 @@
 | 📋 **Task Management System** | Task creation, update, delete, and status tracking system | MERN | [Repo](https://github.com/Adarshpandey80/Task_Management) |
 | 🛠️ **Easy Service Project** | Service booking platform for daily services like electrician, plumber, etc. | MERN | [Repo](https://github.com/Adarshpandey80/Easy-Service) |
 | 🛏️ **Wonderlust Website** | Full-stack accommodation booking website with CRUD operations | Node, Express, MongoDB | [Repo](https://github.com/Adarshpandey80/Wonderlust) |
-| 🧑‍🤝‍🧑 **Find Companion** | A platform to connect people with similar interests, featuring profile matching, chat system, and secure authentication | MERN | [Repo](https://github.com/your-username/find-companion) |
-| 🤖 **Generative AI App** | AI-powered application using LangChain and Hugging Face APIs for text generation, Q&A, and smart responses integrated into a MERN stack | MERN + GenAI | [Repo](https://github.com/your-username/generative-ai-mern) |
+| 🧑‍🤝‍🧑 **Companion Connect** | Platform to hire companions for travel, shopping, and tasks with profiles and pricing | MERN | [Repo](https://github.com/Adarshpandey80/Companion-Connect) |
+| 🤖 **Generative AI App** | AI-powered application using LangChain and Hugging Face APIs for text generation, Q&A, and smart responses integrated into a MERN stack | MERN + GenAI | [Repo](https://github.com/Adarshpandey80/UniGen-AI) |
 | 🌦️ **Weather Forecast App** | Real-time weather application using external APIs | React | [Repo](https://github.com/Adarshpandey80/Weather-Forecast) |
 | 🚗 **A-Z Automobile Platform** | Automobile listing and management system with admin dashboard | HTML, CSS, JavaScript | [Repo](https://github.com/Adarshpandey80/AzAutomobils) |
 | 🎮 **Simon Game** | Interactive memory-based game | HTML, CSS, JavaScript | [Repo](https://github.com/Adarshpandey80/SimonSage-Game) |
