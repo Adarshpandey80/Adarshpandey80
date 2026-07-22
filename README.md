@@ -5,9 +5,12 @@
   <a href="https://portfolio-react-gold-seven.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <a href="https://github.com/Adarshpandey80/Adarshpandey80/blob/main/MyResumeNew.pdf">
-    <img src="https://img.shields.io/badge/Resume-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
-  </a>
+ <a href="https://github.com/Adarshpandey80/Adarshpandey80/blob/main/MyResumeNew.pdf">
+  <img src="https://img.shields.io/badge/Resume-India-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
+</a>
+  <a href="https://github.com/Adarshpandey80/Adarshpandey80/blob/main/Adarsh_Pandey_CV.pdf">
+  <img src="https://img.shields.io/badge/International-Resume-brightgreen?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
+</a>
   <a href="https://www.linkedin.com/in/adarshpandey80/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
