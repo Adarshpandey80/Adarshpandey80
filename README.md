@@ -87,7 +87,7 @@
 | 📚 **Learning Hub** | Interactive e-learning platform with authentication, course management, progress tracking, and responsive UI | React.js | [Repo](https://github.com/Adarshpandey80/learning-dev) |
 | 🌦️ **Weather Forecast App** | Real-time weather application using external APIs | React | [Repo](https://github.com/Adarshpandey80/Weather-Forecast) |
 | 🎮 **Simon Game** | Interactive memory-based game | HTML, CSS, JavaScript | [Repo](https://github.com/Adarshpandey80/SimonSage-Game) |
-| 💼 **Portfolio Website** | Personal portfolio showcasing skills and projects | React, Tailwind | [Repo](https://github.com/Adarshpandey80/Portfolio) |
+| 💼 **Portfolio Website** | Personal portfolio showcasing skills and projects | React, Tailwind | [Repo](https://github.com/Adarshpandey80/Portfolio-REACT) |
 
 ---
 
