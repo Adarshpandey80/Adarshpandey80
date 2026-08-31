@@ -101,14 +101,6 @@ I enjoy turning ideas into production-ready applications and continuously improv
 
 ---
 
-## 📌 Other Notable Work
-
-- 🔐 JWT Authentication & Protected Routes  
-- 📊 Interactive Data Visualization using **D3.js**  
-- 🧾 CRUD Applications with REST APIs  
-- 🌐 API Integration using Axios & Fetch  
-
----
 
 ## 🏆 Certifications
 
