@@ -1,280 +1,127 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Adarsh Pandey</h1>
+<h3 align="center">Full Stack MERN Developer | Open Source Learner | Problem Solver</h3>
 
-# Hi, I'm Adarsh Pandey 👋
-
-### Full-Stack Developer · AI Enthusiast · SAP ABAP Cloud Developer
-
-<p>
-  <a href="https://adarshpandey.dev">
-    <img src="https://img.shields.io/badge/Portfolio-adarshpandey.dev-111827?style=for-the-badge&logo=googlechrome&logoColor=white" />
+<p align="center">
+  <a href="https://portfolio-react-gold-seven.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
+ <a href="https://github.com/Adarshpandey80/Adarshpandey80/blob/main/MyResume.pdf">
+  <img src="https://img.shields.io/badge/Resume-India-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
+</a>
+  <a href="https://github.com/Adarshpandey80/Adarshpandey80/blob/main/Adarsh_Pandey_CV.pdf">
+  <img src="https://img.shields.io/badge/International-Resume-brightgreen?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
+</a>
   <a href="https://www.linkedin.com/in/adarshpandey80/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:pandeyadarsh9628@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/Adarshpandey80">
-    <img src="https://img.shields.io/badge/GitHub-Adarshpandey80-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
-
-<p>
-  <img src="https://komarev.com/ghpvc/?username=Adarshpandey80&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
-
-</div>
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm a **Full-Stack Developer** focused on building modern, scalable and user-centric applications.
-
-My primary experience is around the **MERN stack**, with additional experience in **AI/GenAI, real-time applications, REST APIs, authentication systems, cloud platforms and SAP ABAP Cloud**.
-
-* 🎓 **B.Tech in Computer Science** — TIT, Bhopal
-* 💻 Building full-stack applications with **React, Next.js, Node.js & MongoDB**
-* 🤖 Exploring **Generative AI, LangChain & LLM-powered applications**
-* 🔐 Experienced with **JWT authentication, RBAC, REST APIs & secure application architecture**
-* ⚡ Building **real-time applications with Socket.IO**
-* ☁️ Familiar with **Microsoft Azure & Vercel**
-* 🧩 **SAP Certified – Back-End Developer – ABAP Cloud**
-* 🚀 Interested in **Full-Stack Development, AI Engineering & Cloud Technologies**
-
-> I enjoy turning ideas into production-ready applications and continuously improving my engineering skills.
+- 🎓 **B.Tech in Computer Science** – TIT, Bhopal (CGPA: 7.6)
+- 💻 **Full Stack MERN Developer** (MongoDB, Express.js, React.js, Node.js)
+- 🔐 Experience with **Authentication, REST APIs, Dashboards & Role-Based Systems**
+- 🚀 Passionate about building **scalable, real-world web applications**
+- 📫 Email: **pandeyadarsh9628@gmail.com**
 
 ---
 
-## 🧰 Technology Stack
+## 🛠️ Tech Stack
 
-### Languages
+<p align="center">
 
-<p>
-  <img src="https://skillicons.dev/icons?i=cpp,javascript,typescript,java,html,css" />
-</p>
+<!-- Languages -->
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
 
-### Frontend
+<!-- Frontend -->
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
+<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+<img src="https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" />
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,bootstrap" />
-</p>
+<!-- Backend -->
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
 
-### Backend & APIs
+<!-- Database -->
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
+<!-- AI -->
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
 
-### Databases
+<!-- Cloud & Tools -->
+<img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/Razorpay-0C2451?style=for-the-badge&logo=razorpay&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
 
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-</p>
-
-### AI / GenAI
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-</p>
-
-### SAP & Cloud
-
-<p>
-  <img src="https://img.shields.io/badge/SAP%20ABAP%20Cloud-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" />
-  <img src="https://img.shields.io/badge/SAP%20RAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-</p>
-
-### Tools & Platforms
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/Razorpay-0C2451?style=for-the-badge&logo=razorpay&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
 </p>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🤖 UniGen-AI
-
-**AI-powered application for intelligent text generation, question answering and smart responses.**
-
-* Integrated **LangChain & Hugging Face**
-* Built AI functionality into a MERN-based application
-* Designed an interactive interface for AI-powered workflows
-
-**Tech:** `React` `Node.js` `Express` `MongoDB` `LangChain` `Hugging Face`
-
-🔗 [View Repository](https://github.com/Adarshpandey80/UniGen-AI)
-
----
-
-### 🛠️ Easy Service
-
-**Service marketplace connecting customers with local service providers.**
-
-* Provider discovery using location services
-* AI-assisted service recommendations
-* Customer booking and scheduling
-* Provider profiles, ratings and availability
-* Authentication and role-based access
-
-**Tech:** `React` `Node.js` `Express` `MongoDB` `JWT` `RBAC` `AI` `Location Services`
-
-🔗 [View Repository](https://github.com/Adarshpandey80/Easy-Service)
+| Project | Description | Tech | GitHub |
+|-------|------------|------|--------|
+| 🛠️ **Easy Service Project** | Service booking platform for daily services like electrician, plumber, etc. | MERN | [Repo](https://github.com/Adarshpandey80/Easy-Service) |
+| 👟 **Shoes Verse** | E-commerce shoe store with product listing, cart functionality, and responsive UI | MERN | [Repo](https://github.com/Adarshpandey80/Shoe-Store-Mern) |
+| 🤖 **UniGen-AI** | AI-powered application using LangChain and Hugging Face APIs for text generation, Q&A, and smart responses integrated into a MERN stack | MERN + GenAI | [Repo](https://github.com/Adarshpandey80/UniGen-AI) |
+| 🧑‍🤝‍🧑 **Companion Connect** | Platform to hire companions for travel, shopping, and tasks with profiles and pricing | MERN | [Repo](https://github.com/Adarshpandey80/Companion-Connect) |
+| 👷 **Worker Finder App** | Platform to connect workers and users with secure authentication and role-based access | MERN | [Repo](https://github.com/Adarshpandey80/WorkerFinder) |
+| 📋 **Task Management System** | Task creation, update, delete, and status tracking system | MERN | [Repo](https://github.com/Adarshpandey80/Task_Management) |
+| 🛏️ **Wonderlust Website** | Full-stack accommodation booking website with CRUD operations | Node, Express, MongoDB | [Repo](https://github.com/Adarshpandey80/Wonderlust) |
+| 📚 **Learning Hub** | Interactive e-learning platform with authentication, course management, progress tracking, and responsive UI | React.js | [Repo](https://github.com/Adarshpandey80/learning-dev) |
+| 🌦️ **Weather Forecast App** | Real-time weather application using external APIs | React | [Repo](https://github.com/Adarshpandey80/Weather-Forecast) |
+| 🎮 **Simon Game** | Interactive memory-based game | HTML, CSS, JavaScript | [Repo](https://github.com/Adarshpandey80/SimonSage-Game) |
+| 💼 **Portfolio Website** | Personal portfolio showcasing skills and projects | React, Tailwind | [Repo](https://github.com/Adarshpandey80/Portfolio-REACT) |
 
 ---
 
-### 🧑‍🤝‍🧑 Companion-Connect
+## 📌 Other Notable Work
 
-**Real-time partner-finding and communication platform.**
-
-* JWT authentication and protected routes
-* REST API architecture
-* Real-time messaging using **Socket.IO**
-* User profile management
-* MongoDB database operations
-* Responsive and scalable frontend architecture
-
-**Tech:** `React` `Node.js` `Express` `MongoDB` `Socket.IO` `JWT`
-
-🔗 [View Repository](https://github.com/Adarshpandey80/Companion-Connect)
-
----
-
-### 👟 ShoeVerse
-
-**Full-stack e-commerce platform for browsing and purchasing products.**
-
-* Product catalogue and product details
-* Shopping cart functionality
-* State management with Redux Toolkit
-* Payment integration using Razorpay
-* Responsive UI
-
-**Tech:** `MERN` `Redux Toolkit` `Razorpay`
-
-🔗 [View Repository](https://github.com/Adarshpandey80/Shoe-Store-Mern)
-
----
-
-## 💼 Other Projects
-
-| Project                                                                    | Description                                                            | Stack                    |
-| :------------------------------------------------------------------------- | :--------------------------------------------------------------------- | :----------------------- |
-| 🧑‍🔧 [Worker Finder](https://github.com/Adarshpandey80/WorkerFinder)      | Worker and customer platform with authentication and role-based access | MERN                     |
-| 📋 [Task Management](https://github.com/Adarshpandey80/Task_Management)    | Task creation, management and status tracking                          | MERN                     |
-| 🏡 [Wonderlust](https://github.com/Adarshpandey80/Wonderlust)              | Full-stack accommodation booking platform with CRUD operations         | Node · Express · MongoDB |
-| 📚 [Learning Hub](https://github.com/Adarshpandey80/learning-dev)          | E-learning platform with authentication and course management          | React                    |
-| 🌦️ [Weather Forecast](https://github.com/Adarshpandey80/Weather-Forecast) | Weather application using external APIs                                | React                    |
-| 🎮 [SimonSage Game](https://github.com/Adarshpandey80/SimonSage-Game)      | Interactive memory-based browser game                                  | JavaScript               |
-| 💼 [Portfolio](https://github.com/Adarshpandey80/Portfolio-REACT)          | Personal developer portfolio                                           | React · Tailwind         |
-
----
-
-## 🧠 Engineering Focus
-
-```text
-Frontend        → React · Next.js · TypeScript · Tailwind CSS
-Backend         → Node.js · Express.js · REST APIs
-Database        → MongoDB · SQL
-Authentication  → JWT · RBAC · Protected Routes
-Real-Time       → Socket.IO
-AI / GenAI      → LangChain · Hugging Face · LLM Applications
-Cloud           → Azure · Vercel
-SAP             → ABAP Cloud · RAP · Clean Core
-Tools           → Git · GitHub · VS Code · Figma · Jira
-```
+- 🔐 JWT Authentication & Protected Routes  
+- 📊 Interactive Data Visualization using **D3.js**  
+- 🧾 CRUD Applications with REST APIs  
+- 🌐 API Integration using Axios & Fetch  
 
 ---
 
 ## 🏆 Certifications
 
-### SAP Certified – Back-End Developer – ABAP Cloud
-
-**SAP**
-
-Core areas:
-
-`ABAP Cloud` · `RAP` · `Clean Core` · `SAP S/4HANA`
-
-[View my Credly certification](https://www.credly.com/badges/09553480-19c3-4080-b976-125195a23659)
-
-### Microsoft Azure Fundamentals — AZ-900
-
-Fundamentals of Microsoft Azure, cloud concepts and core Azure services.
-
-### Oracle Cloud Foundations Associate
-
-Cloud fundamentals and Oracle Cloud concepts.
+- ✅ Azure Fundamentals (AZ-900)
+- ✅ Cloud Foundations Associate – Oracle  
 
 ---
 
-## 🌱 Currently Learning
+## 📊 GitHub Stats
 
-I'm continuously expanding my engineering toolkit with a focus on:
-
-* ⚙️ Advanced **TypeScript & Next.js**
-* 🤖 **Generative AI & LLM Applications**
-* 🧠 **AI Agents & Automation**
-* ☁️ **Cloud & Deployment**
-* 🏢 **SAP ABAP Cloud & RAP**
-* 🐳 **Docker & modern development workflows**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Adarshpandey80&show_icons=true&theme=radical&hide_border=true" height="170px"/>
+  <img src="https://streak-stats.demolab.com?user=Adarshpandey80&theme=radical" height="170px"/>
+</p>
 
 ---
 
-## 📈 GitHub Activity
+## 🌍 Profile Views
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Adarshpandey80&show_icons=true&hide_border=true&rank_icon=github" />
-
-<img height="170" src="https://streak-stats.demolab.com?user=Adarshpandey80&hide_border=true" />
-
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Adarshpandey80&label=Profile%20Views&color=blue&style=for-the-badge" />
+</p>
 
 ---
 
-## 🤝 Let's Connect
-
-I'm interested in **full-stack development, AI-powered applications, cloud technologies and modern software engineering**.
-
-If you're working on an interesting project, open-source initiative or technology-focused opportunity, feel free to connect.
-
-<div align="center">
-
-<a href="https://adarshpandey.dev">
-  <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit-111827?style=for-the-badge" />
-</a>
-
-<a href="https://www.linkedin.com/in/adarshpandey80/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="mailto:pandeyadarsh9628@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### "Build. Learn. Ship. Repeat. 🚀"
-
-⭐ **Thanks for visiting my profile!**
-
-</div>
+⭐ **Adarsh Pandey | Full Stack MERN Developer**
