@@ -23,11 +23,20 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 **B.Tech in Computer Science** – TIT, Bhopal (CGPA: 7.6)
-- 💻 **Full Stack MERN Developer** (MongoDB, Express.js, React.js, Node.js)
-- 🔐 Experience with **Authentication, REST APIs, Dashboards & Role-Based Systems**
-- 🚀 Passionate about building **scalable, real-world web applications**
-- 📫 Email: **pandeyadarsh9628@gmail.com**
+I'm a Full-Stack Developer focused on building modern, scalable and user-centric applications.
+
+My primary experience is around the MERN stack, with additional experience in AI/GenAI, real-time applications, REST APIs, authentication systems, cloud platforms and SAP ABAP Cloud.
+
+🎓 B.Tech in Computer Science — TIT, Bhopal
+💻 Building full-stack applications with React, Next.js, Node.js & MongoDB
+🤖 Exploring Generative AI, LangChain & LLM-powered applications
+🔐 Experienced with JWT authentication, RBAC, REST APIs & secure application architecture
+⚡ Building real-time applications with Socket.IO
+☁️ Familiar with Microsoft Azure & Vercel
+🧩 SAP Certified – Back-End Developer – ABAP Cloud
+🚀 Interested in Full-Stack Development, AI Engineering & Cloud Technologies
+
+I enjoy turning ideas into production-ready applications and continuously improving my engineering skills.
 
 ---
 
