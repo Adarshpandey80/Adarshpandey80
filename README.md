@@ -33,7 +33,6 @@ My primary experience is around the MERN stack, with additional experience in AI
 * 🔐 **Backend** — REST APIs, JWT, RBAC, Secure Architecture
 * ⚡ **Real-Time** — Socket.IO & WebSockets
 * ☁️ **Cloud** — Microsoft Azure & Vercel
-* 🧩 **SAP Certified** — Back-End Developer – ABAP Cloud
 * 🚀 **Focus** — Full-Stack Development, AI Engineering & Cloud
 
 
@@ -106,6 +105,7 @@ I enjoy turning ideas into production-ready applications and continuously improv
 
 - ✅ Azure Fundamentals (AZ-900)
 - ✅ Cloud Foundations Associate – Oracle  
+
 
 ---
 
